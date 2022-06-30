@@ -1,0 +1,53 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Robson Andrade Almeida",
+      "email": "robson.andrade@gmail.com",
+      "telefone": "(31) 9 7165-1111",
+      "endereco": "Rua Deputado Franco, 123456"
+    },
+    {
+      "id": "2",
+      "nome": "Carla de Sousa de Dois",
+      "email": "carla.sousa@gmail.com",
+      "telefone": "(31) 9 7165-2222",
+      "endereco": "Marajá Hashid, 222"
+    },
+    {
+      "id": "3",
+      "nome": "Daniel Oliveira Terceiro",
+      "email": "daniel.oliveira@gmail.com",
+      "telefone": "(37) 9 7165-3333",
+      "endereco": "Rua Vereador Nilton, 333"
+    },
+    {
+      "id": "4",
+      "nome": "Anielle Rodrigues Quattro",
+      "email": "anielle.rodrigues@gmail.com",
+      "telefone": "(37) 9 7165-4444",
+      "endereco": "Av. da Fazendo do Mato, 444"
+    },
+    {
+      "id": "5",
+      "nome": "cinco",
+      "email": "cinco@cinco",
+      "telefone": "5555",
+      "endereco": "555"
+    },
+    {
+      "id": "6",
+      "nome": "seis",
+      "email": "seis@seis",
+      "telefone": "6666",
+      "endereco": "666"
+    },
+    {
+      "id": "7",
+      "nome": "sete",
+      "email": "siete@siete",
+      "telefone": "77777",
+      "endereco": "77"
+    }
+  ]
+}
