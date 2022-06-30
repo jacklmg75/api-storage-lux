@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "api-storage-lux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jacklmg75",
+  "license": "ISC"
+}
