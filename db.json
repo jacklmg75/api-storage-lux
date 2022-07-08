@@ -9,45 +9,106 @@
     },
     {
       "id": "2",
-      "nome": "Carla de Sousa de Dois",
+      "nome": "Carla de Sousa",
       "email": "carla.sousa@gmail.com",
       "telefone": "(32) 9 7165-2222",
       "endereco": "Marajá Hashid, 222"
     },
     {
       "id": "3",
-      "nome": "Daniel Oliveira Terceiro",
+      "nome": "Daniel Oliveira",
       "email": "daniel.oliveira@gmail.com",
       "telefone": "(33) 9 7165-3333",
       "endereco": "Rua Vereador Nilton, 333"
     },
     {
       "id": "4",
-      "nome": "Anielle Rodrigues Quattro",
+      "nome": "Anielle Rodrigues",
       "email": "anielle.rodrigues@gmail.com",
-      "telefone": "(37) 9 7165-4444",
+      "telefone": "(34) 9 7165-4444",
       "endereco": "Av. da Fazendo do Mato, 444"
     },
     {
       "id": "5",
-      "nome": "cinco",
-      "email": "cinco@cinco",
+      "nome": "cinq",
+      "email": "cinco@five",
       "telefone": "5555",
       "endereco": "555"
     },
     {
       "id": "6",
-      "nome": "seis",
-      "email": "seis@seis",
+      "nome": "six",
+      "email": "seis@six",
       "telefone": "6666",
       "endereco": "666"
     },
     {
       "id": "7",
-      "nome": "sete",
-      "email": "siete@siete",
-      "telefone": "77777",
-      "endereco": "77"
+      "nome": "sept",
+      "email": "siete@seven",
+      "telefone": "7777",
+      "endereco": "777"
+    }
+  ],
+  "administradores": [
+    {
+      "id": "master",
+      "nome": "Jack",
+      "foto": "./img/ghospedes/master.jpg",
+      "email": "puc@puc.com",
+      "telefone": "31912341234",
+      "checkIn": "01/01/1900",
+      "checkOut": "31/12/9999",
+      "vip": "Sim",
+      "admin": "Sim",
+      "password": "123"
+    }
+  ],
+  "hospedes": [
+    {
+      "id": "1",
+      "nome": "Robson Andrade",
+      "email": "robson.andrade@gmail.com",
+      "telefone": "(31) 9 7165-1111",
+      "checkIn": "01/01/2023",
+      "checkOut": "07/01/2023",
+      "vip": "Nao"
+    },
+    {
+      "id": "2",
+      "nome": "Carla de Sousa",
+      "email": "carla.sousa@gmail.com",
+      "telefone": "(32) 9 7165-2222",
+      "checkIn": "08/02/2023",
+      "checkOut": "14/02/2023",
+      "vip": "Sim"
+    },
+    {
+      "id": "3",
+      "nome": "Daniel Oliveira OOOOO",
+      "email": "daniel.oliveira@gmail.com",
+      "telefone": "(33) 9 7165-3333",
+      "checkIn": "15/03/2023",
+      "checkOut": "21/03/2023",
+      "vip": "Sim"
+    },
+    {
+      "id": "4",
+      "nome": "Anielle Rodrigues",
+      "email": "anielle.rodrigues@gmail.com",
+      "telefone": "(34) 9 7165-4444",
+      "checkIn": "22/04/2023",
+      "checkOut": "28/04/2023",
+      "vip": "Nao"
+    },
+    {
+      "id": "5",
+      "nome": "João Fernando",
+      "email": "j@f",
+      "telefone": "3131",
+      "checkIn": "1",
+      "checkOut": "2",
+      "vip": "Sim"
     }
   ]
 }
