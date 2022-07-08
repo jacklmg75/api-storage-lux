@@ -2,7 +2,7 @@
   "clientes": [
     {
       "id": "1",
-      "nome": "Robson Andrade Almeida",
+      "nome": "Robson Andrade",
       "email": "robson.andrade@gmail.com",
       "telefone": "(31) 9 7165-1111",
       "endereco": "Rua Deputado Franco, 123456"
@@ -11,14 +11,14 @@
       "id": "2",
       "nome": "Carla de Sousa de Dois",
       "email": "carla.sousa@gmail.com",
-      "telefone": "(31) 9 7165-2222",
+      "telefone": "(32) 9 7165-2222",
       "endereco": "Marajá Hashid, 222"
     },
     {
       "id": "3",
       "nome": "Daniel Oliveira Terceiro",
       "email": "daniel.oliveira@gmail.com",
-      "telefone": "(37) 9 7165-3333",
+      "telefone": "(33) 9 7165-3333",
       "endereco": "Rua Vereador Nilton, 333"
     },
     {
